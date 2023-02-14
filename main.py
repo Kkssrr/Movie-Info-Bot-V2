@@ -3,9 +3,9 @@
 import os
 from pyrogram import Client
 
-bot_token = os.environ["BOT_TOKEN"]
-api_id = int(os.environ["API_ID"])
-api_hash = os.environ["API_HASH"]
+bot_token = os.environ["5517278922:AAGGG1NP__3FppgfJVzW96ZP4AOaS22VANk"]
+api_id = int(os.environ["11604258"])
+api_hash = os.environ["447e00413945ab1a61882f9e474477d6"]
 
 plugins = dict(
     root="plugins"
